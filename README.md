@@ -1,9 +1,13 @@
 # linux-inject-test
 
+Clone linux-inject by running the command:
+```
+$ chmod +x ./clone.sh && ./clone.sh
+```
 Compile linux-inject  
 Compile the target program and the library by running the command:  
 ```
-$ ./compile.sh
+$ chmod +x ./compile.sh && ./compile.sh
 ```
 Open a new terminal and run "target":  
 ```
